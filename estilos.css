@@ -1,0 +1,31 @@
+.fondo1{background-image: linear-gradient(to left, grey, black)}
+
+.fondo2{background-color: #D3D0CF}
+
+.menus{background-color: black}
+
+.nav-link{color: white}
+
+.img1{height: 250px; 
+	width: 250px;
+}
+.flexc{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+.pce {
+	text-align: center;
+	font-family: times new roman;
+	font-size: 20px;
+	font-style: italic;
+	background-color: black;
+	color: white;
+}
+.imgcar{height: 650px;
+		width:1400px;
+}
+
+
+
+
